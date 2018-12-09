@@ -1,0 +1,7 @@
+{
+  "name": "sitebusca",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
